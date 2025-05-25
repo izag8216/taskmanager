@@ -1,33 +1,33 @@
-# TaskManager
+# Task Manager
 
-TaskManagerは、シンプルかつモダンなUIでタスク管理ができるWebアプリです。
+Task Manager is a web application with a simple and modern UI for managing your tasks.
 
-## 特徴
-- タスクの追加・完了・削除が可能
-- ローカルストレージに自動保存
-- スタイリッシュなデザイン
-- サンプルタスク10件を初期表示
+## Features
+- Add, complete, and delete tasks
+- Automatic save to localStorage
+- Stylish design
+- 10 sample tasks included
 
-## 使い方
-1. `index.html` をブラウザで開く
-2. 新しいタスクをフォームから追加
-3. タスクの完了/未完了切替や削除もワンクリック
+## How to Use
+1. Open `index.html` in your browser
+2. Add new tasks using the form
+3. Toggle completion and delete tasks with one click
 
-## ファイル構成
-- `index.html` : アプリ本体のHTML
-- `style.css` : デザイン用CSS
-- `app.js` : 機能実装用JavaScript
+## File Structure
+- `index.html`: Main HTML file
+- `style.css`: CSS for styling
+- `app.js`: JavaScript functionality
 
-## 開発・GitHubへのアップロード手順
-1. このプロジェクトフォルダで `README.md` を作成
-2. 以下のコマンドでGitHubにアップロード
+## Development & GitHub Upload
+1. Create `README.md` in project folder
+2. Upload to GitHub with these commands:
 
 ```zsh
 git add README.md
-git commit -m "README.md追加"
+git commit -m "Add README.md"
 git push
 ```
 
 ---
 
-ご自由にカスタマイズしてご利用ください。
+Feel free to customize and use as needed.
