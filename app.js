@@ -1,5 +1,5 @@
 const initialTasks = [
-  { id: 1, title: 'UIデザインを決める', completed: false },
+  { id: 1, title: 'UIデザインを決定', completed: false },
   { id: 2, title: 'HTMLの雛形を作成', completed: true },
   { id: 3, title: 'CSSでスタイリング', completed: false },
   { id: 4, title: 'JavaScriptで機能実装', completed: false },
